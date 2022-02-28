@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv vvind-mil, a new.</title>
+            <author>Canne, Abednego.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90031</idno>
+            <idno type="STC">Wing N792</idno>
+            <idno type="STC">Thomason E249_21</idno>
+            <idno type="STC">ESTC R212555</idno>
+            <idno type="EEBO-CITATION">99871161</idno>
+            <idno type="PROQUEST">99871161</idno>
+            <idno type="VID">159053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159053)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E249[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv vvind-mil, a new.</title>
+                  <author>Canne, Abednego.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield,</publisher>
+                  <pubPlace>At Oxford [i. e. London], :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed pseudonymously on page 6: Boston, Januar. 2. 1642. Abednego Canne.</note>
+                  <note>The imprint is false. This is a "London Royalist counterfeit print, [which] plays on the iconoclasm of the Puritans as directed against crosses, and suggests that as all windmills have cross pieces in their framework and flaunt the fact on hill-tops, they should all be pulled down as superstitious, .."--Madan.</note>
+                  <note>Annotation on Thomason copy: "June 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crosses --  Early works to 1800.</term>
+               <term>Christian art and symbolism --  England --  Early works to 1800.</term>
+               <term>Windmills --  England --  Early works to 1800.</term>
+               <term>England --  Religious life and customs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159053:1" rendition="simple:additions"/>
+            <p>A NEW WIND-MIL, A NEW.</p>
+            <p>
+               <hi>AT OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159053:2"/>
+            <pb n="1" facs="tcp:159053:2"/>
+            <head>To my dearely beloved Brother M<hi rend="sup">r</hi>. <hi>Jonadas Traſh,</hi> at his houſe in Soper-lane, at the ſigne of the Shuttle.</head>
+            <head type="sub">For aſmuch as I ſee every well-minded man hath a fling at an happy altera<g ref="char:EOLhyphen"/>tion; why ſhould we only ſit ſtill when there is ſo much worke to do. For my part I love changes aſwell as another, and have, as I ſuppoſe, found out a proſect very conſiderable, which I have thought fit to impart unto you.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Ruly Brother, I am very much offended with a foule Superſtition, which I wonder is ſo eaſily paſſed over by others: Our Wind-mills, you know, are framed in ſo perfect a croſſe, as if they were erected in defiance of Reformation. To what purpoſe do wee baniſh the Croſſe out of our Chur<g ref="char:EOLunhyphen"/>ches and Markets, if we allow it upon our City-wals, or in our fields: It is no marvell if our corne that is ground with ſo Idolatrous an engine, turne to no better nouriſhment, and ſerve only to feed wicked humors; I warrant you our Brethren in New-England admit of no ſuch abomination: Indeed what need we any Wind-mils at all, have we not wa<g ref="char:EOLhyphen"/>ter enough in every corner of our Land to drive our wheeles about? Or if our lot have fallen upon ſandy ſoyles, or drie heathes, have we not Horſe-mils, and hand-mils, that may ſufficiently prepare our griſt? How do they in thoſe religious armies that are raiſed againſt the Malignant, and in thoſe god<g ref="char:EOLhyphen"/>ly townes and cities that have zealouſly ſhut out their King, and made themſelves their owne priſoners? How did our
+<pb n="2" facs="tcp:159053:3"/>Fore-fathers before ever theſe vaine whirligigs were deviſed? certainly they are ſcandalous inſtruments, where of every ſaile is thwarted over with twenty croſſe-bars, no croſſe of Jeru<g ref="char:EOLhyphen"/>ſalem hath ſo many; and if you mark it, they are commonly ſeated upon high hils, that their offence may be the more no<g ref="char:EOLhyphen"/>torious: My adviſe therfore is, up with all Wind-mils, up with them both root and branch, let them be all preſently eſchea<g ref="char:EOLhyphen"/>ted to the State. But if any of our Brethren be otherwiſe min<g ref="char:EOLhyphen"/>ded, and ſhall think it fit to latch the moving aire for ſuch an advantage, and that there ought to be a correſpondence be<g ref="char:EOLhyphen"/>twixt the holy Wind-mils in our braines, and theſe outward motions; I could earneſtly wiſh that at the next meeting it might be propounded to our Brethren, that they would be pleaſed to agree among themſelves, upon a Vote for the refor<g ref="char:EOLhyphen"/>ming of this evill faſhion of Wind-mils; whereto I ſhall not be unwilling to contribute my beſt thoughts.</p>
+            <p>Why may there not be a device of a round Wind mill free from offence, and more effectuall? the forme whereof I here preſent unto you: Let there be a large round wheele of good heart of Oake: In the inner part whereof, above the axel<g ref="char:EOLhyphen"/>wheele ſhall be prominently ſet out, and faſt mortiſed in the circumferentiall wheele a large ſquare of timber, with a faire roundell in the midſt of it, borne out by foure ſtuds ariſing from the axel-wheele, and in each corner of that ſquare, be<g ref="char:EOLhyphen"/>twixt it and the outer circumference, let there be ſo many leſ<g ref="char:EOLhyphen"/>ſer roundels ſeverally placed (for I hate to think of any croſſe bars in this fabrick) all theſe roundels ſhal be ſo covered with ſtrong canvaſe, that there may be ſcope left for the bunt of the ſaile to ſwell in, wherewith the wind may be caught to pur<g ref="char:EOLhyphen"/>poſe: In the circumference of that large wheele ſhall be fixed
+<pb n="3" facs="tcp:159053:3"/>certain ſtiffe and long ſpoakes, winged with ſeverall flags of canvaſe, two whereof may uphold a ſeveral ſaile, faſtend with ſtrong cords to the wheele, ſo as they may be ſpred or wrapt up according as the gale ſerveth. This is the modell of the re<g ref="char:EOLhyphen"/>formed Wind-mill; I ſuppoſe you have it in your head alrea<g ref="char:EOLhyphen"/>die. The Idea of it is ſo familiar, that every brother may run away with it at the firſt hearing. Here are no ſuch emergent difficulties, and unreconcileable impoſsibilities, as ſhould need the concurrence of many wiſe heads to ſalve them up; but plaine round and ſquare, without any croſſe intricacies or deepe ſubtilties.</p>
+            <p>Now the commodities of this forme, and juſt elogies there<g ref="char:EOLhyphen"/>of, which ſhall recommend it to preſent practiſe, and to poſte<g ref="char:EOLhyphen"/>rity are not a few. Firſt of all, it is new, and that I ſuppoſe is no ſmall praiſe: Away with the rotten faſhions of our doting Anceſtors, give us all profitable novelties; I wonder at the fol<g ref="char:EOLhyphen"/>ly of thoſe men which think any thing the better for age: We caſt away cloaths becauſe they are old; Liquors that are too ſtale we diſlike; Timber that is worm-eaten is rejected; and who cares for mouldy and muſty proviſion? Yet Rites and Ceremonies are by fooliſh men entertained and magnified becauſe they are ancient: Should a man come forth clothed in the habit of his great Grand-ſire, how ſhould he be followed by all the boyes in the ſtreet, not without hooting and deriſi<g ref="char:EOLhyphen"/>on; whereas he that walks in the common garbe of the laſt faſhion, is not noted: And why ſhould not we go beyond our Fore-fathers for wit, ſince we have both the help of theirs, and more pregnant of our own? What do they talke therefore of the old formes of Liturgie, or of the Diſcipline and govern<g ref="char:EOLhyphen"/>ment both of Church and State: It was the credulous ſtupi<g ref="char:EOLhyphen"/>dity of our progenitors to take all upon truſt, that was derived
+<pb n="4" facs="tcp:159053:4"/>unto them from former hands, without enquiring into the better reaſons of alterations; For us we have learned to be wi<g ref="char:EOLhyphen"/>ſer, and know how to be weary of the old decrepit inventions of ſilly antiquity, and rejoyce to furniſh the world with better projects.</p>
+            <p>Secondly, this is a faſhion that hath never been taken up by Papiſts or Heathens, (whoſe very uſe and practiſe is enough to make any thing ſinfull and abominable;) yea, therefore is it moſt fit to be ſet up, becauſe it is quite contrary to their formes: For ſince our Religion is juſtly oppoſite to theirs; why ſhould we agree with them in any thing? Why ſhould we not affect an utter contrariety unto them upon all occaſi<g ref="char:EOLhyphen"/>ons? If they uſe ſet formes of publike Prayer, why ſhould not we avoid them? If they uncover or kneele in their Churches, why ſhould not we abhor that ſuperſtition? If they faſt on Good-Friday, what day is fitter for our feaſting? If Chriſt<g ref="char:EOLhyphen"/>mas day be their Feſtivall, why is it not fitteſt for our work<g ref="char:EOLhyphen"/>ing-day? If they preach in gownes, and walk in ſide-robes, what is ſo proper for us as ſhort cloakes and Jumps: Their Lent ſhould be our Carnevall: And if we could have a Sum<g ref="char:EOLhyphen"/>mer and Winter, a day and night, varying from theirs, or an<g ref="char:EOLhyphen"/>other Sunne from that which gives light to them, we would not partake with them in theſe: And if they go on their feet, I wiſh we could walk on our heads: I am much afraid leſt when they ſee the better faſhion of our grinding engine, they wil go neer to conforme unto this Fabrick, which if they ſhould do, they ſhould ſoon drive us to ſeek ſome other deviſe, for we are reſolved to hold alooſſe from them in all our concernments.</p>
+            <p>Thirdly, there can be no danger of any ill uſe to be made of this frame, whereas the other being ſo exquiſite a croſſe, doth (as it were) invite every paſſenger to ſuperſtition. In this re<g ref="char:EOLhyphen"/>gard
+<pb n="5" facs="tcp:159053:4"/>ſurely I ſhould marvell to ſee any Papiſt paſſe by ſo faire repreſentation with his hat on: And if the Jeſuit CAMPIAN uncovered his head when he paſſed by Tiburne (as his ſtory tels us) the ſtructure wherof is only compoſed of three croſſe beams without any formall arrectary; how would he much more have vailed to ſo perfect a reſemblance of that which is entertained with all idolatrous adoration? And if we breake down ſorry halfe-headed croſſelets in our Church-yards and high-waies, for fear of the worſt: With what courage ſhould we (with the valiant and zealous DON QUIXOTE) ſet upon theſe Giantly champions of ſuperſtition? Since we may bold<g ref="char:EOLhyphen"/>ly ſay that no old Primer, or Horn-book, no book of Popiſh Maſsing, or conjuring, hath in it a more exact forme of that great Idoll than the common Wind-mill hath. Well fare a good ſiſter of ours, Miſtris W. a ſchool-miſtris, which would not ſuffer her little ones to name that Idol in their firſt leſſon, but taught them to ſay black-ſpot in ſtead of Chriſts-croſſe; And our brother H. L. the Baker, that in deteſtation of this fi<g ref="char:EOLhyphen"/>gure, would not ſo much as prick his loaves with an headleſſe croſſe, but contented himſelfe ſtill with one ſingle motion of his knife.</p>
+            <p>Fourthly, it cannot be denied that the faſhion of this our Wind-mill is far more excellent than the other, for the round figure is by all confeſsion moſt perfect; the heaven is round, the earth is round, and if theſe very ſquare ſailes did not move round they could do nothing; and if they be therefore eſtee<g ref="char:EOLhyphen"/>med becauſe they go round, why ſhould they not be ſo much more approved becauſe they are round.</p>
+            <p>Fifthly, it is no ſlight argument to induce us to this forme, that herein we ſhall conforme our ſelves to all other kinds of Mills, the Hand-mill, the Horſe-mill, the Water-mill, are all
+<pb n="6" facs="tcp:159053:5"/>contrived into this figure; howſoever therefore all the Wind<g ref="char:EOLhyphen"/>mils of the whole world be ſquare and croſſe-like; yet ſince it is fit we ſhould frame our ſelves to the faſhion of our neigh<g ref="char:EOLhyphen"/>bours; ſurely it is meet that theſe windy Engins ſhould imi<g ref="char:EOLhyphen"/>tate their fellowes, that ſo there may be a correſpondence be<g ref="char:EOLhyphen"/>tween them, all of an happy and comely rotundity.</p>
+            <p>Many other inducements might be inforced, but theſe are enough to incline al reaſonable men to a liking of this form, which I perſwade my ſelf will take ſo well upon the firſt mo<g ref="char:EOLhyphen"/>tion, that all our well-affected Corporations will be ready to run into this praiſe-worthy faſhion. Which becauſe it may be of ſo ſingular uſe, I could wiſh that in your next aſſembly, when you ſhall finde a generall approbation of this plot, you would move that we two (who are the firſt movers of this project) might have the juſt favour to be joynt Patentees in the work: (why not as well as ſome others have been in the round weights) ſo as whoſoever will reap benefit by our invention, may give ſome reall acknowledgement to the Au<g ref="char:EOLhyphen"/>thors of it: for howſoever I hate Monopolies (as the very bane of the Common-wealth) yet I ſee no reaſon why thoſe that have beaten their braines for the contrivance of any rare device for the common good, ſhould not receive due encou<g ref="char:EOLhyphen"/>ragement from thoſe hands which partake the benefit of their labour; but this I leave to your diſcretion, and to the deeper judgement of the Aſſembly, in the midſt whereof I doe oft wiſh my ſelfe.</p>
+            <closer>
+               <dateline>Boſton, <date>
+                     <hi>Januar.</hi> 2. 1642.</date>
+               </dateline>
+               <signed>Your alike-minded Brother, <hi>ABEDNECO CANNE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
